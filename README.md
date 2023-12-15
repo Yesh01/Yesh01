@@ -40,13 +40,15 @@
 ###
 
 <div align="left">
+  <a href="https://www.facebook.com/yhesua.yeye.venezuela" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
@@ -54,12 +56,12 @@
 
 ###
 
-<img align="right" height="300" src="https://media.giphy.com/media/QX6ruFElzFdeIfblrg/giphy.gif"  />
+<img align="right" height="240" src="https://media.giphy.com/media/QX6ruFElzFdeIfblrg/giphy.gif"  />
 
 ###
 
 <div align="center">
-  <img height="300" src="https://media.giphy.com/media/wGEymBvo6FUlR9bbda/giphy.gif"  />
+  <img height="240" src="https://media.giphy.com/media/jncVQOzEP11H5UiHbI/giphy.gif"  />
 </div>
 
 ###
@@ -67,13 +69,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Yesh01/Yesh01/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Yeshua Venezuela">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Yeshua%20Venezuela&count=10&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
