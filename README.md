@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yesh01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yesh01&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=merko&locale=en&hide_border=true" height="120" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Yesh01&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="120" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yesh01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="120" alt="languages graph"  />
 </div>
