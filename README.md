@@ -1,6 +1,6 @@
 <h1 align="center">👾 Greetings, I'm Yeshua!</h1>
 
-<p>.                                               </p>
+<p>                                               </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=0A58D0&width=435&lines=Call+me+Yearu;I'm+Innovative;I'm+Passionate;I'm+a+Lifelong+Learner;Designer+%7C+Developer+%7C+Driven+by+Creativity" alt="Typing SVG">
@@ -102,6 +102,14 @@
 </div>
 
 ###
+
+<div style="max-width: 400px; margin: 20px auto; padding: 20px; border-radius: 10px; background-color: #f0f8ff; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
+    <p style="font-size: 1.2em; line-height: 1.5; text-align: center; color: #333;">
+        🌱 <strong>"Instead of clinging to the past, I choose to learn and grow for my future self. Each day is a new opportunity to become who I'm meant to be!"</strong>
+    </p>
+</div>
+
+
 
 <br clear="both">
 
