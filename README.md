@@ -109,6 +109,13 @@
     </p>
 </div>
 
+<center>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31t4stgl4nhyypjrdlb2w7bpl67m" alt="Recently Played on Spotify" />
+</center>
+
+
+
+
 
 
 <br clear="both">
