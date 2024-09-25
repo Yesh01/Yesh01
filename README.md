@@ -7,6 +7,7 @@
 <p align="center">Welcome to my GitHub! I’m a passionate <strong>Web Designer</strong> and <strong>Computer Science Student</strong> at NU Manila, specializing in <strong>Java</strong>, <strong>JavaScript</strong>, and <strong>UI/UX Design</strong>. I’m constantly learning and exploring new technologies, bringing ideas to life through code and creativity.</p>
 
 
+
 ###
 
 - 🔭 I’m currently working on [Library Management Java Connectivity to MySQL Pure Core Programming](https://github.com/Yesh01/LibrarySystemCore)
