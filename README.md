@@ -1,6 +1,6 @@
 <h1 align="center">👾 Greetings, I'm Yeshua!</h1>
 
-<p>                                               </p>
+<p>-                                               </p>
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=0A58D0&width=435&lines=Call+me+Yearu;I'm+Innovative;I'm+Passionate;I'm+a+Lifelong+Learner;Designer+%7C+Developer+%7C+Driven+by+Creativity" alt="Typing SVG">
