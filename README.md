@@ -12,23 +12,21 @@
 
 ###
 
-## 🚀 About Me
+## 🌟 <span style="font-size: 1.5em;">Personal Ongoing Happenings</span>
 
-- 🔭 I’m currently working on <a href="https://github.com/Yesh01/LibrarySystemCore" style="text-decoration: none;">**Library Management System**</a> – Java Connectivity to MySQL with Pure Core Programming.
+| 🚀 **Current Focus**                                         | 📚 **Learning**                                         | 🤝 **Collaboration**                                    | 🗂️ **Projects**                                          |
+|-------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------|
+| <a href="https://github.com/Yesh01/LibrarySystemCore" style="text-decoration: none; color: #0A58D0;">**Library Management System**</a> – Java Connectivity to MySQL with Pure Core Programming. | <div style="border: 2px solid #0A58D0; padding: 5px;">**Java (Advanced Concepts)**, **Spring Framework**, **Linux Configuration**, **MySQL**, and balancing my **University Workloads**.</div> | <a href="https://github.com/Yesh01/AuctionOnline" style="text-decoration: none; color: #0A58D0;">**Auction System Using JavaFX**</a>. | Check out all my projects at my <a href="https://github.com/Yesh01?tab=repositories" style="text-decoration: none; color: #0A58D0;">**GitHub Repositories**</a>. |
 
-- 🌱 I’m currently learning **Java (Advanced Concepts)**, **Spring Framework**, **Linux Configuration**, **MySQL**, and balancing my **University Workloads**.
+<p align="center" style="font-style: italic;">
+  Learn more about my professional journey and experiences at my <a href="https://github.com/Yesh01" style="text-decoration: none; color: #0A58D0;">**GitHub Profile**</a>.
+</p>
 
-- 👯 I’m looking to collaborate on <a href="https://github.com/Yesh01/AuctionOnline" style="text-decoration: none;">**Auction System Using JavaFX**</a>.
+| 💬 **Ask Me**                                               | 📫 **Contact**                                         | ⚡ **Fun Fact**                                         |
+|-------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+| About **Tech Resources to Learn**,                          | Feel free to reach out at **yeshuavenezuela0@gmail.com**. | When I'm not solving coding challenges, you’ll find me obsessing over pixel-perfect designs. I believe great code and beautiful design are two sides of the same creative coin! |
 
-- 👨‍💻 Check out all my projects at my <a href="https://github.com/Yesh01?tab=repositories" style="text-decoration: none;">**GitHub Repositories**</a>.
 
-- 💬 Ask me about **Tech Resources to Learn**
-
-- 📫 Feel free to reach out at **yeshuavenezuela0@gmail.com**.
-
-- 📄 Learn more about my professional journey and experiences at my <a href="https://github.com/Yesh01" style="text-decoration: none;">**GitHub Profile**</a>.
-
-- ⚡ **Fun Fact**: When I'm not solving coding challenges, you’ll find me obsessing over pixel-perfect designs. I believe great code and beautiful design are two sides of the same creative coin!
 
 
   
