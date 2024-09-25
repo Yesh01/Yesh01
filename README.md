@@ -12,21 +12,25 @@
 
 ###
 
-- 🔭 I’m currently working on [Library Management Java Connectivity to MySQL Pure Core Programming](https://github.com/Yesh01/LibrarySystemCore)
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Java to High Tier, Spring as upcoming Framewrok, Configuration in Linux Environment, MySQL as Database & University Workloads**
+- 🔭 I’m currently working on <a href="https://github.com/Yesh01/LibrarySystemCore" style="text-decoration: none;">**Library Management System**</a> – Java Connectivity to MySQL with Pure Core Programming.
 
-- 👯 I’m looking to collaborate on [Auction System Using JavaFX](https://github.com/Yesh01/AuctionOnline)
+- 🌱 I’m currently learning **Java (Advanced Concepts)**, **Spring Framework**, **Linux Configuration**, **MySQL**, and balancing my **University Workloads**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yesh01?tab=repositories](https://github.com/Yesh01?tab=repositories)
+- 👯 I’m looking to collaborate on <a href="https://github.com/Yesh01/AuctionOnline" style="text-decoration: none;">**Auction System Using JavaFX**</a>.
+
+- 👨‍💻 Check out all my projects at my <a href="https://github.com/Yesh01?tab=repositories" style="text-decoration: none;">**GitHub Repositories**</a>.
 
 - 💬 Ask me about **Tech Resources to Learn**
 
-- 📫 How to reach me **yeshuavenezuela0@gmail.com**
+- 📫 Feel free to reach out at **yeshuavenezuela0@gmail.com**.
 
-- 📄 Know about my experiences [https://github.com/Yesh01](https://github.com/Yesh01)
+- 📄 Learn more about my professional journey and experiences at my <a href="https://github.com/Yesh01" style="text-decoration: none;">**GitHub Profile**</a>.
 
-- ⚡ Fun fact: **When I'm not solving coding challenges, you’ll find me obsessing over pixel-perfect designs. I believe great code and beautiful design are two sides of the same creative coin!**
+- ⚡ **Fun Fact**: When I'm not solving coding challenges, you’ll find me obsessing over pixel-perfect designs. I believe great code and beautiful design are two sides of the same creative coin!
+
+
   
 <h3 align="left">Personal Ongoing Tech Stacks:</h3>
 
