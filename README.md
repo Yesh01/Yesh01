@@ -103,21 +103,6 @@
 
 ###
 
-<div style="max-width: 400px; margin: 20px auto; padding: 20px; border-radius: 10px; background-color: #f0f8ff; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
-    <p style="font-size: 1.2em; line-height: 1.5; text-align: center; color: #333;">
-        🌱 <strong>"Instead of clinging to the past, I choose to learn and grow for my future self. Each day is a new opportunity to become who I'm meant to be!"</strong>
-    </p>
-</div>
-
-<center>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31t4stgl4nhyypjrdlb2w7bpl67m" alt="Recently Played on Spotify" />
-</center>
-
-
-
-
-
-
 <br clear="both">
 
 <div align="center">
@@ -153,3 +138,9 @@
 </div>
 
 ###
+
+<div align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Just+Yeshua+-+Myself&quote=“Don’t+attach+yourself+to+the+outcome,+but+to+the+effort.+True+growth+comes+from+the+journey,+not+just+the+destination.”" alt="Github Readme Daily Quotes" />
+</div>
+
+
