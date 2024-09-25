@@ -1,10 +1,11 @@
-# 👋 Hello, I'm Yeshua!
+<h1 align="center">👾 Greetings, I'm Yeshua!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F7E70F&width=435&lines=I'm+Innovative;I'm+Passionate;I'm+a+Learner;Designer+%7C+Developer+%7C+Creative+Mind" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=0A58D0&width=435&lines=Call+me+Yearu;I'm+Innovative;I'm+Passionate;I'm+a+Lifelong+Learner;Designer+%7C+Developer+%7C+Driven+by+Creativity" alt="Typing SVG">
 </p>
 
-Welcome to my GitHub! I’m a passionate **Web Designer** and **Computer Science Student** at NU Manila, specializing in **Java**, **JavaScript**, and **UI/UX Design**. I’m constantly learning and exploring new technologies, bringing ideas to life through code and creativity.
+<p align="center">Welcome to my GitHub! I’m a passionate <strong>Web Designer</strong> and <strong>Computer Science Student</strong> at NU Manila, specializing in <strong>Java</strong>, <strong>JavaScript</strong>, and <strong>UI/UX Design</strong>. I’m constantly learning and exploring new technologies, bringing ideas to life through code and creativity.</p>
+
 
 ###
 
@@ -29,35 +30,35 @@ Welcome to my GitHub! I’m a passionate **Web Designer** and **Computer Science
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=black&style=for-the-badge" height="30" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=black&style=for-the-badge" height="30" alt="neovim logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="35" alt="java logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge" height="35" alt="debian logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="35" alt="linux logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="mysql logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="35" alt="git logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="35" alt="bash logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="35" alt="intellij logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="35" alt="spring logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="35" alt="figma logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="35" alt="vscode logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="35" alt="css3 logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=black&style=for-the-badge" height="35" alt="firefox logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=black&style=for-the-badge" height="35" alt="neovim logo"  />
 </div>
 
 ###
@@ -88,10 +89,10 @@ Welcome to my GitHub! I’m a passionate **Web Designer** and **Computer Science
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yesh01&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Yesh01&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yesh01&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Yesh01&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="130" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yesh01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2&custom_title=---%20Tech%20Langauage%20---" height="" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Yesh01&theme=monokai&column=-1&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Yesh01&theme=monokai&column=-1&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="130" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yesh01&radius=14&theme=nord&area=true&order=5&bg_color=blue&hide_border=false&hide_title=false&custom_title=Grappy" height="300" alt="activity-graph graph"  />
 </div>
 
