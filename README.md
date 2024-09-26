@@ -28,7 +28,6 @@
 
 
 
-
   
 <h3 align="left">Personal Ongoing Tech Stacks:</h3>
 
@@ -67,6 +66,11 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yesh01&color=daa520&label=Stalkers" alt="Stalkers" />
+</div>
+
 
 <h4 align="center">SocMeds:</h4>
 
