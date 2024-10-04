@@ -107,15 +107,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Yesh01&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yesh01&theme=one_dark_pro&hide_border=true" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesh01&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="150" alt="Top Languages" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Yesh01&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true" height="150" alt="Top Contributed Repos" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yesh01&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4" height="150" alt="GitHub Trophies" />
 </div>
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Yesh01&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true" height="150" alt="Top Contributed Repos" />
-</div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yesh01&radius=16&theme=react&area=true&hide_border=false&order=5" height="300" alt="activity graph" />
 </div>
