@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=0A58D0&width=435&lines=Call+me+Yearu;I'm+Innovative;I'm+Passionate;I'm+a+Lifelong+Learner;Designer+%7C+Developer+%7C+Driven+by+Creativity" alt="Typing SVG">
 </p>
 
-<p align="center">Welcome to my GitHub! I’m a passionate <strong>Web Designer</strong> and <strong>Computer Science Student</strong> at NU Manila, specializing in <strong>Java</strong>, <strong>JavaScript</strong>, and <strong>UI/UX Design</strong>. I’m constantly learning and exploring new technologies, bringing ideas to life through code and creativity.</p>
+<p align="center">Welcome to my GitHub! I’m a passionate <strong>Web Designer</strong> and <strong>Computer Science Student</strong> at NU Manila in the Philippines, specializing in <strong>Java</strong>, <strong>JavaScript</strong>, and <strong>UI/UX Design</strong>. I’m constantly learning and exploring new technologies, bringing ideas to life through code and creativity.</p>
 
 
 
