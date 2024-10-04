@@ -107,23 +107,24 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Yesh01&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=outrun&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Yesh01&locale=en&mode=daily&theme=outrun&hide_border=false&border_radius=5&order=2" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yesh01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yesh01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=outrun&hide_border=false&order=3&custom_title=---%20Tech%20Language%20---" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yesh01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=3&custom_title=---%20Tech%20Language%20---" height="150" alt="languages graph" />
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Yesh01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=2&v=1" height="150" alt="streak graph" />
   
   <!-- Top Contributed Repos -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=Yesh01&limit=5&theme=outrun&combine_all_yearly_contributions=true" height="150" alt="Top contributed repositories graph" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Yesh01&limit=5&theme=dracula&combine_all_yearly_contributions=true" height="150" alt="Top contributed repositories graph" />
   
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Yesh01&theme=radical&column=-1&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yesh01&theme=dracula&column=-1&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yesh01&radius=14&theme=outrun&area=true&bg_color=blue&hide_border=false&hide_title=false&custom_title=Grappy" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yesh01&radius=16&theme=react&area=true&hide_border=false&order=5" height="300" alt="activity graph" />
 </div>
+
 
 
 
