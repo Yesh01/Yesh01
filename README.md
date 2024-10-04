@@ -103,27 +103,31 @@
 
 <h3 align="center">GitHub Stats</h3>
 
-<br clear="both">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yesh01&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yesh01&theme=one_dark_pro&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesh01&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="150" alt="Top Languages" />
+</div>
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Yesh01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yesh01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=3&custom_title=---%20Tech%20Language%20---" height="150" alt="languages graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yesh01&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4" height="150" alt="GitHub Trophies" />
+</div>
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Yesh01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=2&v=1" height="150" alt="streak graph" />
-  
-  <!-- Top Contributed Repos -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=Yesh01&limit=5&theme=dracula&combine_all_yearly_contributions=true" height="150" alt="Top contributed repositories graph" />
-  
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Yesh01&theme=dracula&column=-1&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-
-  <!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Yesh01&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true" height="150" alt="Top Contributed Repos" />
+</div>
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yesh01&radius=16&theme=react&area=true&hide_border=false&order=5" height="300" alt="activity graph" />
 </div>
+
+<br/>
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Yesh01&icon=0&color=0" alt="Visit Count" />
+  </a>
+</div>
+
 
 
 
