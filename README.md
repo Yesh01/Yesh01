@@ -120,12 +120,11 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Yesh01&icon=0&color=0" alt="Visit Count" />
+<p align="center">
+  <a href="https://app.daily.dev/yeshuavenezuela">
+    <img src="https://api.daily.dev/devcards/v2/nkp19dStW1rzN0TQLLryt.png?type=wide&r=f4n&theme=dark" width="652" alt="Yearu's Dev Card"/>
   </a>
-</div>
-
+</p>
 
 
 
