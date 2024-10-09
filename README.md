@@ -65,8 +65,6 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=black&style=for-the-badge" height="35" alt="firefox logo" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=black&style=for-the-badge" height="35" alt="neovim logo" />
-  <img width="5" />
   <img src="https://img.shields.io/badge/Apache Maven-C71A36?logo=apachemaven&logoColor=white&style=for-the-badge" height="35" alt="maven logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/JavaFX-FF0000?logo=javafx&logoColor=white&style=for-the-badge" height="35" alt="javafx logo" />
