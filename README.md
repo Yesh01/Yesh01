@@ -6,8 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=0A58D0&width=435&lines=Call+me+Yearu;I'm+Innovative;I'm+Passionate;I'm+a+Lifelong+Learner;Designer+%7C+Developer+%7C+Driven+by+Creativity" alt="Typing SVG">
 </p>
 
-<p align="center">Welcome to my GitHub! I’m a passionate <strong>Web Designer</strong> and <strong>Computer Science Student</strong> at NU Manila in the Philippines, specializing in <strong>Java</strong>, <strong>JavaScript</strong>, and <strong>UI/UX Design</strong>. I’m constantly learning and exploring new technologies, bringing ideas to life through code and creativity.</p>
-
+<p align="center"><strong>Welcome to my GitHub!</strong> I'm a passionate student developer at <strong> National University - Manila</strong> in the Philippines, currently focusing on <strong>Java Development</strong> and expanding my skills in <strong>Web Desing</strong> and <strong>Front-End Development</strong>. I specialize in backend development with Java and am open to school-based project commissions. Below, you’ll find ongoing projects and learning topics I’m currently exploring. Feel free to check out my progress</p>
 
 
 ###
@@ -16,7 +15,7 @@
 
 | 🚀 **Current Focus**                                         | 📚 **Learning**                                         | 🤝 **Collaboration**                                    | 🗂️ **Projects**                                          |
 |-------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------|
-| <a href="https://github.com/Yesh01/PersonalWebTravelBlog" style="text-decoration: none; color: #0A58D0;">**Travel-Blog-Site**</a> – Refresher Project into Web Trio in the theme of Travel-Blog. | <div style="border: 2px solid #0A58D0; padding: 5px;">**Java [Advanced Concepts]**, **Spring Framework**, **Linux Environment**, **Web Developement**, **MySQL**, and balancing my **University Workloads**.</div> | <a href="https://github.com/Yesh01/AuctionOnline" style="text-decoration: none; color: #0A58D0;">**Auction System Using JavaFX**</a>. | Check out all my projects at my <a href="https://github.com/Yesh01?tab=repositories" style="text-decoration: none; color: #0A58D0;">**GitHub Repositories**</a>. |
+| <a href="https://github.com/Yesh01/PersonalWebTravelBlog" style="text-decoration: none; color: #0A58D0;">**Travel-Blog-Site**</a> – Refresher Project into Web Trio in the theme of Travel-Blog. | <div style="border: 2px solid #0A58D0; padding: 5px;">**Java [Advanced Concepts]**, **Spring Framework**, **Linux Environment**, **Web Development**, **MySQL**, and balancing my **University Workloads**.</div> | <a href="https://github.com/Yesh01/AuctionOnline" style="text-decoration: none; color: #0A58D0;">**Auction System Using JavaFX**</a>. | Check out all my projects at my <a href="https://github.com/Yesh01?tab=repositories" style="text-decoration: none; color: #0A58D0;">**GitHub Repositories**</a>. |
 
 <p align="center" style="font-style: italic;">
   Learn more about my professional journey and experiences at my <a href="https://github.com/Yesh01" style="text-decoration: none; color: #0A58D0;">**GitHub Profile**</a>.
