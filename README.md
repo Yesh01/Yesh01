@@ -118,9 +118,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://app.daily.dev/yeshuavenezuela">
-    <img src="https://api.daily.dev/devcards/v2/nkp19dStW1rzN0TQLLryt.png?type=wide&r=f4n&theme=dark" width="652" alt="Yearu's Dev Card"/>
-  </a>
+ <a href="https://app.daily.dev/yeshuavenezuela"><img src="https://api.daily.dev/devcards/v2/nkp19dStW1rzN0TQLLryt.png?type=wide&r=a0i" width="652" alt="Yearu's Dev Card"/></a>
 </p>
 
 
