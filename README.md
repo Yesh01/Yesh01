@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=0A58D0&width=435&lines=Call+me+Yearu;I'm+Innovative;I'm+Passionate;I'm+a+Lifelong+Learner;Designer+%7C+Developer+%7C+Driven+by+Creativity" alt="Typing SVG">
 </p>
 
-<p align="center"><strong>Welcome to my GitHub!</strong> I'm a passionate student developer at <strong> National University - Manila</strong> in the Philippines, currently focusing on <strong>Java Development</strong> and expanding my skills in <strong>Web Desing</strong> and <strong>Front-End Development</strong>. I specialize in backend development with Java and am open to school-based project commissions. Below, you’ll find ongoing projects and learning topics I’m currently exploring. Feel free to check out my progress</p>
+<p align="center"><strong>Welcome to my GitHub!</strong> I'm a passionate student developer at <strong> National University - Manila</strong> in the Philippines, currently focusing on <strong> --- --- </strong> and expanding my skills in <strong>Web Desing</strong> and <strong>Front-End Development</strong>. I specialize in backend development with Java and am open to school-based project commissions. Below, you’ll find ongoing projects and learning topics I’m currently exploring. Feel free to check out my progress</p>
 
 
 ###
